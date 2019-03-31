@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "push.notification.cordova"
+    },
+    "cordova-plugin-firebase": {
+      "PACKAGE_NAME": "push.notification.cordova"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "push.notification.cordova"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "push.notification.cordova"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "push.notification.cordova"
+    }
+  }
+}
