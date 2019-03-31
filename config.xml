@@ -11,7 +11,6 @@
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="cordova-plugin-firebase" spec="https://github.com/danhdc0812/cordova-plugin-firebase.git" />
     <plugin name="cordova-plugin-local-notification" spec="^0.9.0-beta.2" />
-    <plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release" />
 
     <access origin="*" />
     <allow-intent href="http://*/*" />
