@@ -58,7 +58,6 @@ var app = {
         window.FirebasePlugin.subscribe('topicExample');
 
         window.FirebasePlugin.onNotificationOpen(function(notification) {
-            alert(notification);
             app.showNotificationMessage(notification);
 
         }, function(error) {
