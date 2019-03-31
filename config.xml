@@ -27,7 +27,7 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 
-    <preference name="phonegap-version" value="cli-6.5.0" />
-    <preference name="pgb-builder-version" value="2" />
-    <engine name="android" spec="6.1.2" />
+    <preference name="phonegap-version" value="cli-7.1.0" />
+    <!--<preference name="pgb-builder-version" value="2" />-->
+    <!--<engine name="android" spec="6.3.0" />-->
 </widget>
